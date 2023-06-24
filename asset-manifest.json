@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Ompalreact/static/css/main.1db83801.css",
+    "main.js": "/Ompalreact/static/js/main.4e900d3d.js",
+    "static/js/787.13aee4be.chunk.js": "/Ompalreact/static/js/787.13aee4be.chunk.js",
+    "static/media/undraw_cooking_p7m1.svg": "/Ompalreact/static/media/undraw_cooking_p7m1.6e8012853dc914d221ae0f14b4599899.svg",
+    "index.html": "/Ompalreact/index.html",
+    "main.1db83801.css.map": "/Ompalreact/static/css/main.1db83801.css.map",
+    "main.4e900d3d.js.map": "/Ompalreact/static/js/main.4e900d3d.js.map",
+    "787.13aee4be.chunk.js.map": "/Ompalreact/static/js/787.13aee4be.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1db83801.css",
+    "static/js/main.4e900d3d.js"
+  ]
+}
